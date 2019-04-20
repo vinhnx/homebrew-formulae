@@ -1,2 +1,6 @@
 # homebrew-formulae
-Collection of Homebrew Formulae
+
+My collection of Homebrew Formulae
+
+Reference:
++ https://nshipster.com/homebrew/
