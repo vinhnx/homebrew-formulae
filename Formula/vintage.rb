@@ -2,7 +2,7 @@ class Vintage < Formula
   desc "A small command-line tool to check outdated Swift Package Manager dependencies."
   homepage "https://github.com/vinhnx/vintage"
   url "https://github.com/vinhnx/vintage.git",
-      :tag => "0.1.0", :revision => "20c40a65feca5bc11233d2a20340a448a4bdbd20"
+      :tag => "0.2.0", :revision => "ed7bd940c781ec0277b55bb3f12e6971c1baa703"
   head "https://github.com/vinhnx/vintage.git"
   depends_on :xcode => ["10.2", :build]
 
